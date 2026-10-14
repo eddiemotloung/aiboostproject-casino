@@ -1,3 +1,8 @@
+> **Heads up: you've landed on a copy.** If you're here, you probably copied the link from my PDF. In the PDF the link wraps at the hyphen, and copying it drops the hyphen, so `aiboost-project-casino` becomes `aiboostproject-casino`. The PDF had already been sent, so I set up this copy to make sure the link still works. It's the same code with the same commit history.
+>
+> **Original repo:** https://github.com/eddiemotloung/aiboost-project-casino
+> **Live page:** https://eddiemotloung.github.io/aiboost-project-casino/
+
 # AIBoost Project Casino
 
 Look, here's the thing about casino bonuses. Every site screams "100% up to $1,000!" and then hides the parts that matter, the wagering and the minimum deposit, deep in the fine print.
